@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Javeria Sheraz</h1>
-<h3 align="center">Mechatronics and Control Engineering student with passion for coding</h3>
+<h3 align="center">Mechatronics and Control Engineering student</h3>
 <h4 align="center">🎓 Student at University of Engineering and Technology, Lahore</h4>
 <p align="center">
   <img src="https://tse3.mm.bing.net/th/id/OIP.d01uWNAXJFkbvxq9thZBzQHaHa?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" alt="UET Lahore logo" width="80" height="80"/>
