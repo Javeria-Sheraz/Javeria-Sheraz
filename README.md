@@ -47,7 +47,7 @@
 
 ---
 <br>
-<h3 align="left">⚙️ Others</h3>
+<h3 align="left">⚙️ Other Key Skills</h3>
 
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/> <b>MATLAB</b> &nbsp;&nbsp;
@@ -84,6 +84,7 @@
 
 
 ---
+<br>
 <br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javeria-sheraz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
