@@ -62,36 +62,11 @@
 <br>
 <h3 align="center">🚀 Best Projects</h3>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Javeria-Sheraz/Battleship-Game" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeria-Sheraz&repo=Battleship-Game&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Javeria-Sheraz/virtualCanvas" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeria-Sheraz&repo=virtualCanvas&theme=tokyonight" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Javeria-Sheraz/Finger-Controlled-Screen-Cursor" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javeria-Sheraz&repo=Finger-Controlled-Screen-Cursor&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+| [Battleship Game](https://github.com/Javeria-Sheraz/Battleship-Game) | [Virtual Canvas](https://github.com/Javeria-Sheraz/virtualCanvas) | [Finger Cursor Control](https://github.com/Javeria-Sheraz/Finger-Controlled-Screen-Cursor) |
+| :---: | :---: | :---: |
+| Python / GUI | OpenCV / MediaPipe | Computer Vision |
 
----
-<br>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=javeria-sheraz&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top-langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=javeria-sheraz&show_icons=true&locale=en&theme=tokyonight" alt="stats" />
-</p>
-
+</div>
 
